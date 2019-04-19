@@ -1,7 +1,7 @@
 
 github "kdisimone/LoopKit" "anna"
 github "kdisimone/CGMBLEKit" "anna"
-github "i-schuetz/SwiftCharts" == 0.6.2
+github "ps2/SwiftCharts" "hotfix-xcode10.2"
 github "kdisimone/dexcom-share-client-swift" "anna"
 github "kdisimone/G4ShareSpy" "anna"
 github "kdisimone/rileylink_ios" "anna"
